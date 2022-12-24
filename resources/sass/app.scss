@@ -48,7 +48,7 @@ $main-blue: #008ED6;
 }
 
 .banner {
-    background-image: url("img/banner.jpg");
+    background-image: url("@/img/banner.jpg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -154,7 +154,7 @@ hr {
 
 
 .pricing-slide {
-    background-image: url("img/paralax.jpg");
+    background-image: url("@/img/paralax.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
